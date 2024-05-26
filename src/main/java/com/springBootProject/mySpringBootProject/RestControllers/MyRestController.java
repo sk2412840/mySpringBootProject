@@ -8,6 +8,6 @@ public class MyRestController {
 
     @GetMapping("/")
     private String defaultMapping(){
-        return "Hello World";
+        return "Hello World!!!";
     }
 }
